@@ -1,0 +1,43 @@
+
+html{
+    background-color: tan;
+    width: 980px;
+    margin: 0 auto;
+    background-image: "assets/images/concrete-texture.png";
+}
+header{
+    font-family: "Georgia", Times, Times New Roman, serif;
+    color: #ffffff;
+    background: #4aaaa5;
+    border: #cccccc;
+    text-align: center; 
+    font-size: 1 em;
+    width: 30%;
+    padding:10px;
+}
+ul{
+    background-color: yellow;
+    text-decoration: none;
+    float: right;
+} 
+div{
+background-color: blue;
+}
+
+section{
+    background-color: pink;
+    width: 650px;
+    margin:0;
+}
+aside{
+    background-color: orange;
+    width: 270px;
+    margin: 0 auto;
+    border:#dddddd;
+    float:right;
+    }
+footer{
+    color: #cccccc;
+    background: #666666; 
+}
+
