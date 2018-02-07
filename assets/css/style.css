@@ -149,3 +149,22 @@ portpic{display: inline-block;
     top: -10px;
     width: 100%;
 }
+
+.lcontainer {
+    background-image: url(/images/hangman.jpg);
+    position: relative;
+    float: left;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+
+}
+
+.rcontainer {
+    position: relative;
+    float: right;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+
+}
